@@ -1,0 +1,10 @@
+
+.radio-btns {
+    column-count: 4;
+    column-gap: 40px;
+    column-rule: 1px solid lightblue;
+  }
+  
+  h2 {
+    column-span: all;
+  }
